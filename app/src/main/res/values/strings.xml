@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistrationTest</string>
+
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="name">Name</string>
+</resources>
